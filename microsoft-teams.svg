@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="112" height="20" viewBox="0 0 112 20">
   <rect width="112" height="20" rx="3" fill="#6264A7"/>
-  <rect x="2" y="2" width="16" height="16" rx="2" fill="#fff"/>
   <g transform="translate(1.56 1.56) scale(.36)">
     <path fill="url(#a)" d="M22 20h12a6 6 0 0 1 6 6v10a6 6 0 0 1-12 0V26a6 6 0 0 0-6-6Z"/>
     <path fill="url(#b)" d="M8 24a6 6 0 0 1 6-6h8a6 6 0 0 1 6 6v12a6 6 0 0 0 6 6H18c-5.523 0-10-4.477-10-10v-8Z"/>
