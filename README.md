@@ -108,5 +108,3 @@
 ## 🔗 Let's Connect!
 
 [![Ronie L. Vallecera Jr.](./facebook-badge.svg)](https://www.facebook.com/vallecera.jr) [![vallecera.roniejr@gmail.com](./gmail-badge.svg)](https://mail.google.com/mail/?view=cm&to=vallecera.roniejr%40gmail.com) [![Vallecera Jr., Ronie L.](./linkedin-badge.svg)](https://www.linkedin.com/in/vallecera-jr-ronie-l-161132376/)
-
-Welcome to my GitHub profile! This is a work in progress—more about me and my projects coming soon.
