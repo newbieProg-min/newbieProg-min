@@ -71,18 +71,6 @@
     <tr>
       <td>◉</td>
       <td>
-        <strong>Web Developer Intern · Philippine State College of Aeronautics</strong><br>
-        <sub>Mar–Apr 2025</sub>
-        <ul>
-          <li>Led an intern team building the <strong>PhilSCA Online Appointment System (POAS)</strong>.</li>
-          <li>Handled deployment, client demos, and student IT support.</li>
-        </ul>
-        <code>Team lead</code> <code>Deployment</code>
-      </td>
-    </tr>
-    <tr>
-      <td>◉</td>
-      <td>
         <strong>Freelance Developer · <a href="https://github.com/capstonedummy11/capstone-rfid">RFID Attendance and School Operations System</a></strong>
         <ul>
           <li>Built a role-based school operations platform using Laravel, Vue 3, Inertia, and MySQL.</li>
@@ -90,6 +78,18 @@
           <li>Developed workflows for school administration, instructors, and clinic staff, with messaging, reports, and emergency response.</li>
         </ul>
         <code>Laravel</code> <code>Vue 3</code> <code>Inertia</code> <code>MySQL</code> <code>RFID</code>
+      </td>
+    </tr>
+    <tr>
+      <td>◉</td>
+      <td>
+        <strong>Web Developer Intern · Philippine State College of Aeronautics</strong><br>
+        <sub>Mar–Apr 2025</sub>
+        <ul>
+          <li>Led an intern team building the <strong>PhilSCA Online Appointment System (POAS)</strong>.</li>
+          <li>Handled deployment, client demos, and student IT support.</li>
+        </ul>
+        <code>PHP</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>SQL</code> <code>Team lead</code> <code>Deployment</code>
       </td>
     </tr>
     <tr>
