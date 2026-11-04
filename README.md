@@ -51,6 +51,32 @@
   <img src="https://img.shields.io/badge/Google_Play_Console-61A95E?style=flat-square&amp;logo=googleplay&amp;logoColor=white" alt="Google Play Console">
 </p>
 
+<h2>💼 Experience</h2>
+
+### Software Developer · Vidalia
+*Fintech / lending · Philippines*
+
+- Manage the **Vidalia Mobile Web** platform and contribute to the **Vidalia Admin System** (Vue + Laravel), including loan management and restructuring.
+- Implemented OAuth2 with Laravel Passport and refresh token rotation.
+- Shipped and maintain the **Vidalia Lending** mobile app (Ionic + Angular + Capacitor) on Google Play.
+
+### Web Developer Intern · Philippine State College of Aeronautics
+*Mar–Apr 2025*
+
+- Led an intern team building the **PhilSCA Online Appointment System (POAS)**.
+- Handled deployment, client demos, and student IT support.
+
+### Freelance Developer · [RFID Attendance and School Operations System](https://github.com/capstonedummy11/capstone-rfid)
+
+- Built a role-based school operations platform using Laravel, Vue 3, Inertia, and MySQL.
+- Implemented RFID attendance with face verification, registrar enrollment, and student/parent portals.
+- Developed workflows for school administration, instructors, and clinic staff, with messaging, reports, and emergency response.
+
+### Capstone Project · PhilSCA Library Management System
+
+- Built a PHP, JavaScript, and SQL system that uses barcode scanning for library access and account management.
+- Developed the **LibraryAccess**, **LibraryAccessManagement**, and **LibraryAccountManagement** modules.
+
 ## 🔗 Let's Connect!
 
 [![Ronie L. Vallecera Jr.](./facebook-badge.svg)](https://www.facebook.com/vallecera.jr) [![vallecera.roniejr@gmail.com](./gmail-badge.svg)](https://mail.google.com/mail/?view=cm&to=vallecera.roniejr%40gmail.com) [![Vallecera Jr., Ronie L.](./linkedin-badge.svg)](https://www.linkedin.com/in/vallecera-jr-ronie-l-161132376/)
