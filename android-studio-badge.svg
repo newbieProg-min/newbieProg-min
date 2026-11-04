@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="20" viewBox="0 0 100 20">
-  <rect width="100" height="20" rx="3" fill="#79D98C"/>
-  <path d="m5 4 1.8 2.6m6.4-2.6L11.4 6.6M4.5 8.2h10v4.3a5 5 0 0 1-10 0zm2.5 8v1m5-1v1" fill="#fff" stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="7.5" cy="10.5" r=".7" fill="#25833D"/>
-  <circle cx="11.5" cy="10.5" r=".7" fill="#25833D"/>
-  <text x="20" y="13.5" fill="#111" font-family="Arial,sans-serif" font-size="9" font-weight="700">Android Studio</text>
-</svg>
