@@ -1,18 +1,53 @@
 ![Ronie's GitHub profile banner](./ronie-green-banner-v3.png)
 
-## Technologies & Tools
+<h2 align="center">Technologies and tools</h2>
 
-### Frontend
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+<h4 align="center">FRONTEND</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ionic-6264F5?style=flat-square" alt="Ionic">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square" alt="Angular">
+  <img src="https://img.shields.io/badge/Capacitor-4A8BFC?style=flat-square" alt="Capacitor">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3">
+  <img src="./javascript-badge.svg" alt="JavaScript">
+</p>
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<h4 align="center">BACKEND</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square" alt="Laravel">
+  <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square" alt="Blade">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" alt="MySQL">
+  <img src="https://img.shields.io/badge/Passport_OAuth-6A2DC1?style=flat-square" alt="Passport OAuth">
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square" alt="Composer">
+</p>
 
-### Tools
-![Visual Studio Code](./vscode-badge.svg) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![PuTTY](./putty-badge.svg) ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<h4 align="center">DEV TOOLS</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-4C6FBF?style=flat-square" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git">
+  <img src="https://img.shields.io/badge/Bitbucket-3446C5?style=flat-square" alt="Bitbucket">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square" alt="npm">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square" alt="Postman">
+  <img src="./android-studio-badge.svg" alt="Android Studio">
+</p>
 
-### Cloud
-![AWS Lightsail](./aws-lightsail-badge.svg) ![AWS IAM](./aws-iam-badge.svg)
+<h4 align="center">WORKFLOW AND INFRA</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-3446C5?style=flat-square" alt="Jira">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square" alt="Slack">
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square" alt="FileZilla">
+  <img src="https://img.shields.io/badge/PuTTY-2D3038?style=flat-square" alt="PuTTY">
+</p>
+
+<h4 align="center">CLOUD</h4>
+<p align="center">
+  <img src="./aws-lightsail-label-badge.svg" alt="AWS Lightsail">
+  <img src="https://img.shields.io/badge/AWS_IAM-CF4054?style=flat-square" alt="AWS IAM">
+  <img src="https://img.shields.io/badge/Google_Play_Console-61A95E?style=flat-square" alt="Google Play Console">
+</p>
 
 ## 🔗 Let's Connect!
 
