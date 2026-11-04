@@ -1,6 +1,6 @@
 ![Ronie's GitHub profile banner](./ronie-green-banner-v3.png)
 
-<h2>Technologies and tools</h2>
+<h2>🛠️ Technologies and Tools</h2>
 
 <h4>FRONTEND</h4>
 <p align="left">
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="./css.svg" height="16" alt="">
   <img src="./css3-badge.svg" alt="CSS3">
   <img src="./javascript-badge.svg" alt="JavaScript">
 </p>
@@ -17,7 +18,6 @@
 <h4>BACKEND</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Blade">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
   <img src="./passport-oauth-badge.svg" alt="Passport OAuth">
@@ -26,11 +26,14 @@
 
 <h4>DEV TOOLS</h4>
 <p align="left">
+  <img src="./visual-studio-code.svg" height="16" alt="">
   <img src="./vscode-badge.svg" alt="VS Code">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Bitbucket-3446C5?style=flat-square&amp;logo=bitbucket&amp;logoColor=white" alt="Bitbucket">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="npm">
+  <img src="https://img.shields.io/badge/nvm-339933?style=flat-square&amp;logo=nvm&amp;logoColor=white" alt="nvm">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman">
+  <img src="./android.svg" height="16" alt="">
   <img src="./android-studio-badge.svg" alt="Android Studio">
 </p>
 
@@ -40,6 +43,7 @@
   <img src="./slack-badge.svg" alt="Slack">
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&amp;logo=filezilla&amp;logoColor=white" alt="FileZilla">
   <img src="./putty-badge.svg" alt="PuTTY">
+  <img src="./microsoft-teams.svg" height="16" alt="">
   <img src="./microsoft-teams-badge.svg" alt="Microsoft Teams">
 </p>
 
