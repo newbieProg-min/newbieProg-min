@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-  <img src="./css.svg" alt="CSS3">
+  <img src="./css.svg?v=82c0d08" alt="CSS3">
   <img src="./javascript-badge.svg" alt="JavaScript">
 </p>
 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/nvm-339933?style=flat-square&amp;logo=nvm&amp;logoColor=white" alt="nvm">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman">
-  <img src="./android.svg" alt="Android Studio">
+  <img src="./android.svg?v=c618d0b" alt="Android Studio">
 </p>
 
 <h4>WORKFLOW AND INFRA</h4>
@@ -41,7 +41,7 @@
   <img src="./slack-badge.svg" alt="Slack">
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&amp;logo=filezilla&amp;logoColor=white" alt="FileZilla">
   <img src="./putty-badge.svg" alt="PuTTY">
-  <img src="./microsoft-teams.svg" alt="Microsoft Teams">
+  <img src="./microsoft-teams.svg?v=bbc1c83" alt="Microsoft Teams">
 </p>
 
 <h4>CLOUD</h4>
