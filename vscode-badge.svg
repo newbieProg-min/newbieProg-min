@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="20" viewBox="0 0 72 20">
+  <rect width="72" height="20" rx="3" fill="#007ACC"/>
+  <path fill="#fff" d="M5 6.1 8.3 8.7l5.2-4v10.6l-5.2-4L5 13.9 3.5 12.5 6.4 10 3.5 7.5zm9.7-3.4 2 .9v14.8l-2 .9z"/>
+  <text x="21" y="14" fill="#fff" font-family="Arial,sans-serif" font-size="9" font-weight="600">VS Code</text>
+</svg>

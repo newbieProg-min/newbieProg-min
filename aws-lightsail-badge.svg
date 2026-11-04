@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="20" viewBox="0 0 101 20">
+  <rect width="101" height="20" rx="3" fill="#232F3E"/>
+  <path d="M4 10.3a3 3 0 0 1 5.7-1.2 2.8 2.8 0 0 1 4.4 2.2 2.5 2.5 0 0 1-.2 5H5.8a2.3 2.3 0 0 1-1.8-4z" fill="none" stroke="#FF9900" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="18" y="13.5" fill="#fff" font-family="Arial,sans-serif" font-size="8" font-weight="600">AWS Lightsail</text>
+</svg>
