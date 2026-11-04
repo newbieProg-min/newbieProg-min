@@ -53,58 +53,57 @@
 
 <h2>💼 Experience</h2>
 
-<table>
-  <tbody>
-    <tr>
-      <td>◉</td>
-      <td>
-        <strong>Software Developer · Vidalia</strong><br>
-        <sub>Fintech / lending · Philippines</sub>
-        <ul>
-          <li>Manage the <strong>Vidalia Mobile Web</strong> platform and contribute to the <strong>Vidalia Admin System</strong> (Vue + Laravel), including loan management and restructuring.</li>
-          <li>Implemented OAuth2 with Laravel Passport and refresh token rotation.</li>
-          <li>Shipped and maintain the <strong>Vidalia Lending</strong> mobile app (Ionic + Angular + Capacitor) on Google Play.</li>
-        </ul>
-        <code>Laravel</code> <code>Vue</code> <code>Ionic</code> <code>Angular</code> <code>Capacitor</code> <code>OAuth2</code>
-      </td>
-    </tr>
-    <tr>
-      <td>◉</td>
-      <td>
-        <strong>Freelance Developer · <a href="https://github.com/capstonedummy11/capstone-rfid">RFID Attendance and School Operations System</a></strong>
-        <ul>
-          <li>Built a role-based school operations platform using Laravel, Vue 3, Inertia, and MySQL.</li>
-          <li>Implemented RFID attendance with face verification, registrar enrollment, and student/parent portals.</li>
-          <li>Developed workflows for school administration, instructors, and clinic staff, with messaging, reports, and emergency response.</li>
-        </ul>
-        <code>Laravel</code> <code>Vue 3</code> <code>Inertia</code> <code>MySQL</code> <code>RFID</code>
-      </td>
-    </tr>
-    <tr>
-      <td>◉</td>
-      <td>
-        <strong>Web Developer Intern · Philippine State College of Aeronautics</strong><br>
-        <sub>Mar–Apr 2025</sub>
-        <ul>
-          <li>Led an intern team building the <strong>PhilSCA Online Appointment System (POAS)</strong>.</li>
-          <li>Handled deployment, client demos, and student IT support.</li>
-        </ul>
-        <code>PHP</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>SQL</code> <code>Team lead</code> <code>Deployment</code>
-      </td>
-    </tr>
-    <tr>
-      <td>◉</td>
-      <td>
-        <strong>Capstone Project · PhilSCA Library Management System</strong>
-        <ul>
-          <li>Built a PHP, JavaScript, and SQL system that uses barcode scanning for library access and account management.</li>
-          <li>Developed the <strong>LibraryAccess</strong>, <strong>LibraryAccessManagement</strong>, and <strong>LibraryAccountManagement</strong> modules.</li>
-        </ul>
-        <code>PHP</code> <code>JavaScript</code> <code>SQL</code> <code>Barcode</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
+### Software Developer · Vidalia
+*Fintech / lending · Philippines*
+
+- Manage the **Vidalia Mobile Web** platform and contribute to the **Vidalia Admin System** (Vue + Laravel), including loan management and restructuring.
+- Implemented OAuth2 with Laravel Passport and refresh token rotation.
+- Shipped and maintain the **Vidalia Lending** mobile app (Ionic + Angular + Capacitor) on Google Play.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-555?style=flat-square)
+
+---
+
+### Freelance Developer · [RFID Attendance and School Operations System](https://github.com/capstonedummy11/capstone-rfid)
+
+- Built a role-based school operations platform using Laravel, Vue 3, Inertia, and MySQL.
+- Implemented RFID attendance with face verification, registrar enrollment, and student/parent portals.
+- Developed workflows for school administration, instructors, and clinic staff, with messaging, reports, and emergency response.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### Web Developer Intern · Philippine State College of Aeronautics
+*Mar–Apr 2025*
+
+- Led an intern team building the **PhilSCA Online Appointment System (POAS)**.
+- Handled deployment, client demos, and student IT support.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### Capstone Project · PhilSCA Library Management System
+
+- Built a PHP, JavaScript, and SQL system that uses barcode scanning for library access and account management.
+- Developed the **LibraryAccess**, **LibraryAccessManagement**, and **LibraryAccountManagement** modules.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 🔗 Let's Connect!
 
