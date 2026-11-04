@@ -1,9 +1,9 @@
 ![Ronie's GitHub profile banner](./ronie-green-banner-v3.png)
 
-<h2 align="center">Technologies and tools</h2>
+<h2>Technologies and tools</h2>
 
-<h4 align="center">FRONTEND</h4>
-<p align="center">
+<h4>FRONTEND</h4>
+<p align="left">
   <img src="https://img.shields.io/badge/Ionic-6264F5?style=flat-square&amp;logo=ionic&amp;logoColor=white" alt="Ionic">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Capacitor-4A8BFC?style=flat-square&amp;logo=capacitor&amp;logoColor=white" alt="Capacitor">
@@ -14,8 +14,8 @@
   <img src="./javascript-badge.svg" alt="JavaScript">
 </p>
 
-<h4 align="center">BACKEND</h4>
-<p align="center">
+<h4>BACKEND</h4>
+<p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Blade">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP">
@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&amp;logo=composer&amp;logoColor=white" alt="Composer">
 </p>
 
-<h4 align="center">DEV TOOLS</h4>
-<p align="center">
+<h4>DEV TOOLS</h4>
+<p align="left">
   <img src="./vscode-badge.svg" alt="VS Code">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Bitbucket-3446C5?style=flat-square&amp;logo=bitbucket&amp;logoColor=white" alt="Bitbucket">
@@ -34,17 +34,17 @@
   <img src="./android-studio-badge.svg" alt="Android Studio">
 </p>
 
-<h4 align="center">WORKFLOW AND INFRA</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jira-3446C5?style=flat-square&amp;logo=jira&amp;logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=slack&amp;logoColor=white" alt="Slack">
+<h4>WORKFLOW AND INFRA</h4>
+<p align="left">
+  <img src="./jira-badge.svg" alt="Jira">
+  <img src="./slack-badge.svg" alt="Slack">
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&amp;logo=filezilla&amp;logoColor=white" alt="FileZilla">
   <img src="./putty-badge.svg" alt="PuTTY">
   <img src="./microsoft-teams-badge.svg" alt="Microsoft Teams">
 </p>
 
-<h4 align="center">CLOUD</h4>
-<p align="center">
+<h4>CLOUD</h4>
+<p align="left">
   <img src="./aws-lightsail-label-badge.svg" alt="AWS Lightsail">
   <img src="./aws-iam-badge.svg" alt="AWS IAM">
   <img src="https://img.shields.io/badge/Google_Play_Console-61A95E?style=flat-square&amp;logo=googleplay&amp;logoColor=white" alt="Google Play Console">
